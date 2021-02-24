@@ -1,3 +1,3 @@
 # BrickBracker-Java-Game
 
-BrickBracker Game Using Java 
+Brick Breaker Game Using Java 
